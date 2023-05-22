@@ -1,8 +1,8 @@
 # Sacred_fig
 <param ve-config 
-       title="Essay Title"
-       author="Author"
-       banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
+       title="Religion’s Living Roots: The Sacred Ficus religiosa"
+       author="Foo Shi Wen"
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ficus_religiosa_-_Fruits.jpg/640px-Ficus_religiosa_-_Fruits.jpg"
        layout="vertical">
        
 For reference, first open the [Juncture user guide](https://github.com/JSTOR-Labs/juncture/wiki/visual-essay-tags) in a new tab. Then, go ahead and enter your essay title in the "title" field above, and your name as you'd like it to appear in "author". For the banner image, you can pick anything you already have permissions to use. The image will be automatically scaled to fit the field (or you can crop/create an image 1200 by 400 pixels).
