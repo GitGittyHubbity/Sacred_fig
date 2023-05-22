@@ -5,7 +5,11 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ficus_religiosa_-_Fruits.jpg/640px-Ficus_religiosa_-_Fruits.jpg"
        layout="vertical">
        
-Of the over 800 species in the genera *Ficus*[^1] , *Ficus religiosa* is likely among the most famous. *F. religiosa*, commonly known as the sacred fig or the bodhi tree, is a fig native to the Indian subcontinent, east Himalaya, Myanmar, and Malayan region.  The epithet, religiosa, alludes to its significance to Hinduism and Buddhism, two major religions also originating from the Indian subcontinent.[^2] Though the name *Ficus religiosa* was first designated by Carl Linnaeus in 1753, the species was later given eight other scientific names by subsequent taxonomists. These include *Ficus peepul* and *Urostigma affine*.[^3]  Paralleling its nomenclative popularity in the scientific world, *F. religiosa* also bears over 150 known vernacular names.[^4][^5] Table 1. illustrates some of the names in the various languages spoken in India alone. Common names today include the bodhi tree, peepal tree and the *Ashvattha* tree.[^6]  This richness in vernacular names reflects the species’ cultural importance and rich history.
+Of the over 800 species in the genera *Ficus*[^1] , *Ficus religiosa* is likely among the most famous. *F. religiosa*, commonly known as the sacred fig or the bodhi tree, is a fig native to the Indian subcontinent, east Himalaya, Myanmar, and Malayan region.  The epithet, religiosa, alludes to its significance to Hinduism and Buddhism, two major religions also originating from the Indian subcontinent.[^2] Though the name *Ficus religiosa* was first designated by Carl Linnaeus in 1753, the species was later given eight other scientific names by subsequent taxonomists. These include *Ficus peepul* and *Urostigma affine*.[^3]  Paralleling its nomenclative popularity in the scientific world, *F. religiosa* also bears over 150 known vernacular names.[^4][^5] Table 1. illustrates some of the names in the various languages spoken in India alone. Common names today include the bodhi tree, peepal tree and the *Ashvattha* tree.[^6] This richness in vernacular names reflects the species’ cultural importance and rich history.
+
+## The Hindu King of Trees:
+The sacred fig’s religious significance spans thousands of years, likely beginning as early as the conception of Hinduism in the 15th to 20th century BC. Its association with Hindu deities can be traced back to ancient scriptures, where it is referred to as *Ashvatta*, or King of Trees.[^7] Lord Krishna not only compared himself to the Ashvattha in the Bhagavad Gita, but was also said to assume the form of a peepal tree.[^8] [^9] Consequently, the tree was highly revered as a vessel of divine power and sacredness. Harming the peepal tree was said to bring ill-fortune, while worshipping the tree brought one closer to spiritual liberation.[^10]
+
 
 For reference, first open the [Juncture user guide](https://github.com/JSTOR-Labs/juncture/wiki/visual-essay-tags) in a new tab. Then, go ahead and enter your essay title in the "title" field above, and your name as you'd like it to appear in "author". For the banner image, you can pick anything you already have permissions to use. The image will be automatically scaled to fit the field (or you can crop/create an image 1200 by 400 pixels).
 
@@ -87,4 +91,11 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: Citation. Make sure you include the colon or this won't work!
+[^1]: Chiang Chan et al., ‘Botany, Uses, Chemistry and Pharmacology of Ficus Microcarpa’.
+[^2]: Sitaramam, Jog, and Tetali, ‘Ecology of Ficus Religiosa Accounts for Its Association with Religion’.
+[^3]: Kew Science, ‘Plants of the World Online’.
+[^4]: Sandeep et al., ‘Ficus religiosa: A wholesome medicinal tree’.
+[^5]: Bhalerao, Satish & Sharma, Amit. ‘Ethnomedicinal, phytochemical and pharmacological profile of *Ficus religiosa*’.
+[^6]: Merriam-Webster.com Dictionary, ‘pipal’
+[^7]: Haberman, *People Trees*.
+[^8]: Patton, *The Bhagavad Gita*, 183.
