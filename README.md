@@ -8,8 +8,9 @@
 Of the over 800 species in the genera *Ficus*[^1] , *Ficus religiosa* is likely among the most famous. *F. religiosa*, commonly known as the sacred fig or the bodhi tree, is a fig native to the Indian subcontinent, east Himalaya, Myanmar, and Malayan region.  The epithet, religiosa, alludes to its significance to Hinduism and Buddhism, two major religions also originating from the Indian subcontinent.[^2] Though the name *Ficus religiosa* was first designated by Carl Linnaeus in 1753, the species was later given eight other scientific names by subsequent taxonomists. These include *Ficus peepul* and *Urostigma affine*.[^3]  Paralleling its nomenclative popularity in the scientific world, *F. religiosa* also bears over 150 known vernacular names.[^4][^5] Table 1. illustrates some of the names in the various languages spoken in India alone. Common names today include the bodhi tree, peepal tree and the *Ashvattha* tree.[^6] This richness in vernacular names reflects the species’ cultural importance and rich history.
 
 ## The Hindu King of Trees:
-The sacred fig’s religious significance spans thousands of years, likely beginning as early as the conception of Hinduism in the 15th to 20th century BC. Its association with Hindu deities can be traced back to ancient scriptures, where it is referred to as *Ashvatta*, or King of Trees.[^7] Lord Krishna not only compared himself to the Ashvattha in the Bhagavad Gita, but was also said to assume the form of a peepal tree.[^8] [^9] Consequently, the tree was highly revered as a vessel of divine power and sacredness. Harming the peepal tree was said to bring ill-fortune, while worshipping the tree brought one closer to spiritual liberation.[^10]
+The sacred fig’s religious significance spans thousands of years, likely beginning as early as the conception of Hinduism in the 15th to 20th century BC. Its association with Hindu deities can be traced back to ancient scriptures, where it is referred to as *Ashvatta*, or King of Trees.[^7] Lord Krishna not only compared himself to the *Ashvattha* in the *Bhagavad Gita*, but was also said to assume the physical form of the tree.[^8] [^9] Consequently, the tree was highly revered as a vessel of divine power and sacredness. Harming the peepal tree was said to bring ill-fortune, while worshipping the tree brought one closer to spiritual liberation.[^10]
 
+The tree’s religious significance is also closely tied to its medicinal properties, which are often referenced in holy texts.[^11] The use of medicinal plants such as the peepal tree have been central to Indian medicine, or Ayurveda, for centuries.[^12] Being deeply tied to Hinduism, Ayurveda eventually spread, along with the religion, throughout Southeast Asia, including Singapore, and is still widely practised today.[^13] [^14] According to the discipline, every part of the peepal tree has medicinal value.[^15] Its leaves, bark, and fruits are used to treat various ailments from asthma to arthritis.[^16] Modern pharmacological research has confirmed the curative properties of various compounds present within different parts of the tree.[^17] [^18] Particularly in rural areas where modern medical aid is not readily available, F. religiosa remains an important curative to support the health of locals.[^19]
 
 For reference, first open the [Juncture user guide](https://github.com/JSTOR-Labs/juncture/wiki/visual-essay-tags) in a new tab. Then, go ahead and enter your essay title in the "title" field above, and your name as you'd like it to appear in "author". For the banner image, you can pick anything you already have permissions to use. The image will be automatically scaled to fit the field (or you can crop/create an image 1200 by 400 pixels).
 
@@ -99,3 +100,15 @@ Others are selectable using icons displayed in the top right margin of the parag
 [^6]: Merriam-Webster.com Dictionary, ‘pipal’
 [^7]: Haberman, *People Trees*.
 [^8]: Patton, *The Bhagavad Gita*, 183.
+[^9]: Haberman, *People Trees*.
+[^10]: Haberman, *People Trees*.
+[^11]: Singh, Singh, and Goel, ‘Traditional Uses, Phytochemistry and Pharmacology of *Ficus Religiosa*’.
+[^12]: Singh, Singh, and Goel, ‘Traditional Uses, Phytochemistry and Pharmacology of *Ficus Religiosa*’.
+[^13]: Jaiswal and Williams, ‘A Glimpse of Ayurveda – The Forgotten History and Principles of Indian Traditional Medicine’.
+[^14]: Patwardhan et al., ‘Ayurveda and Traditional Chinese Medicine’.
+[^15]: Haberman, *People Trees*.
+[^16]: Singh, Singh, and Goel, ‘Traditional Uses, Phytochemistry and Pharmacology of *Ficus Religiosa*’.
+[^17]: Chandrasekar et al., ‘Phytopharmacology of *Ficus Religiosa*’.
+[^18]: Singh, Singh, and Goel, ‘Traditional Uses, Phytochemistry and Pharmacology of *Ficus Religiosa*’.
+[^19]: Singh, Singh, and Goel, ‘Traditional Uses, Phytochemistry and Pharmacology of *Ficus Religiosa*’.
+
