@@ -12,6 +12,13 @@ The sacred fig’s religious significance spans thousands of years, likely begin
 
 The tree’s religious significance is also closely tied to its medicinal properties, which are often referenced in holy texts.[^11] The use of medicinal plants such as the peepal tree have been central to Indian medicine, or Ayurveda, for centuries.[^12] Being deeply tied to Hinduism, Ayurveda eventually spread, along with the religion, throughout Southeast Asia, including Singapore, and is still widely practised today.[^13] [^14] According to the discipline, every part of the peepal tree has medicinal value.[^15] Its leaves, bark, and fruits are used to treat various ailments from asthma to arthritis.[^16] Modern pharmacological research has confirmed the curative properties of various compounds present within different parts of the tree.[^17] [^18] Particularly in rural areas where modern medical aid is not readily available, F. religiosa remains an important curative to support the health of locals.[^19]
 
+## A Path to Nirvana:
+Around the fifth century BC, Siddartha Guatama founded Buddhism in modern day India near the present Nepalese border.[^20] Though there is contention whether Buddhism can be considered an offshoot of ancient Hinduism, the two religions undoubtedly share one common feature: their reverence for F. religiosa.[^21] In fact, the tree features prominently in Buddhist lore, being the tree under which Siddartha Guatama achieved enlightenment, or ‘bodhi’ and attained nirvana. It is likely during the rise of Buddhism in the Indian subcontinent, that the now widely used moniker, bodhi tree, became adopted. From ancient history, to the modern day, F. religiosa’s association with Buddhist enlightenment afforded it veneration and inspired much worship. 
+
+In 288 BC King Ashoka, who ruled over Bodh Gaya, the site where Buddha’s Tree of Enlightenment stood, delivered a branch of the Tree to Sri Lanka, where Buddhism had newly established, as a peace offering.[^22] This branch was planted in Anuradhapura, where it eventually grew in the Jaya Maha Bodhi, likely the most sacred individual tree in Buddhism today. This title would have been afforded to the original Tree of Enlightenment in Bodh Gaya were it not for the tragedy that occurred in 245 BC. Ashoka’s queen, Tissarakkha, grew jealous of her husband’s devotion to the Tree of Enlightenment and reportedly destroyed the tree using a poisonous thorn.[^23] Distraught, Ashoka transplanted a cutting from the Jaya Maha Bodhi onto the spot where the Tree of Enlightenment once stood, in essence reviving the tree.[^24] Aside from Bodh Gaya, many temples around the world also have F. religiosa shoots believed to be the direct offspring of the sacred tree in Anuradhapura.[^25]
+
+Practitioners of Buddhism would propagate F. religiosa in places of worship or simply cultivate it for its connection to the Buddha. Thus, as Buddhism spread throughout the rest of Asia, so did the venerated plant.[^26] Among buddhists in China, the sacredness of F. religiosa inspired the use of its leaves in religious art and scripture.[^27] The dried heart-shaped leaves of the plant would act as canvases for pigment or ink to be applied for the painting of religious depictions or the writing of sutras .[^28] Most often, the paintings include illustrations of great Buddhist sages, or arhats, while writings frequently transcribe the Heart Sutra, a seminal piece of Mahāyāna wisdom.[^29] This practice extends to the modern day, and such keepsakes can be purchased at various Buddhist temples and shrines around the world.[^30]
+
 For reference, first open the [Juncture user guide](https://github.com/JSTOR-Labs/juncture/wiki/visual-essay-tags) in a new tab. Then, go ahead and enter your essay title in the "title" field above, and your name as you'd like it to appear in "author". For the banner image, you can pick anything you already have permissions to use. The image will be automatically scaled to fit the field (or you can crop/create an image 1200 by 400 pixels).
 
 ## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
@@ -111,4 +118,14 @@ Others are selectable using icons displayed in the top right margin of the parag
 [^17]: Chandrasekar et al., ‘Phytopharmacology of *Ficus Religiosa*’.
 [^18]: Singh, Singh, and Goel, ‘Traditional Uses, Phytochemistry and Pharmacology of *Ficus Religiosa*’.
 [^19]: Singh, Singh, and Goel, ‘Traditional Uses, Phytochemistry and Pharmacology of *Ficus Religiosa*’.
-
+[^20]: National Geographic, ‘Buddhism’.
+[^21]: Black, ‘Buddhism in the Shadow of Brahmanism. By Johannes Bronkhorst.’
+[^22]: Singh, ‘Bodhi Tree’.
+[^23]: Singh, ‘Bodhi Tree’.
+[^24]: Singh, ‘Bodhi Tree’.
+[^25]: Singh, ‘Bodhi Tree’.
+[^26]: Unidentified, *Luohans*
+[^27]: Unidentified, *Luohans*
+[^28]: Matteini, ‘Written on a Bodhi Tree Leaf’
+[^29]: Matteini, ‘Written on a Bodhi Tree Leaf’
+[^30]: Matteini, ‘Written on a Bodhi Tree Leaf’
