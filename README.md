@@ -19,6 +19,12 @@ In 288 BC King Ashoka, who ruled over Bodh Gaya, the site where Buddha’s Tree 
 
 Practitioners of Buddhism would propagate F. religiosa in places of worship or simply cultivate it for its connection to the Buddha. Thus, as Buddhism spread throughout the rest of Asia, so did the venerated plant.[^26] Among buddhists in China, the sacredness of F. religiosa inspired the use of its leaves in religious art and scripture.[^27] The dried heart-shaped leaves of the plant would act as canvases for pigment or ink to be applied for the painting of religious depictions or the writing of sutras .[^28] Most often, the paintings include illustrations of great Buddhist sages, or arhats, while writings frequently transcribe the Heart Sutra, a seminal piece of Mahāyāna wisdom.[^29] This practice extends to the modern day, and such keepsakes can be purchased at various Buddhist temples and shrines around the world.[^30]
 
+The religious importance of the bodhi tree to Buddhism still facilitates its propagation and spread around the world in the modern day. In August 2021, Australia imported an offspring of the Anuradhapura tree with the goal of planting it in a Buddhist temple.[^31] Despite the nation’s arduous extensive biosecurity measures, requiring the sapling to undergo a year-long quarantine and thorough examination for potential flora pathogens, the religious and cultural importance of the tree saw adequate impetus for its transplantation.[^32]
+
+## A Singaporean Natural and Cultural Heritage:
+Followers of Buddhism and Hinduism collectively comprise over 35% of the population in Singapore and F. religiosa features prominently alongside the various temples or roadside shrines of its associated faiths.[^33] The oldest bodhi tree in Singapore is probably the located on Lorong How Sun. Towering at 30 meters tall, the over 100-year-old tree was housed in the ex-premises of the Jin Long Si Temple.[^34] [^35] The temple premises was acquired by the government in 2003 for urban redevelopment, sparking appeals to save the temple, and the historically and religiously significant tree.[^36] Though the appeals ultimately failed to preserve the temple, the bodhi tree was saved and authorities made promises to retain the tree.  Now, the tree holds vigil over its new surroundings, with the wooden-walled, zinc-roofed temple of the past replaced by high-rise condominiums. 
+
+
 For reference, first open the [Juncture user guide](https://github.com/JSTOR-Labs/juncture/wiki/visual-essay-tags) in a new tab. Then, go ahead and enter your essay title in the "title" field above, and your name as you'd like it to appear in "author". For the banner image, you can pick anything you already have permissions to use. The image will be automatically scaled to fit the field (or you can crop/create an image 1200 by 400 pixels).
 
 ## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
@@ -129,3 +135,5 @@ Others are selectable using icons displayed in the top right margin of the parag
 [^28]: Matteini, ‘Written on a Bodhi Tree Leaf’
 [^29]: Matteini, ‘Written on a Bodhi Tree Leaf’
 [^30]: Matteini, ‘Written on a Bodhi Tree Leaf’
+[^31]: Australian Government, ‘Sacred Bodhi Tree’s Journey to Oz 2300 Years in the Making’.
+[^32]: Australian Government, ‘Sacred Bodhi Tree’s Journey to Oz 2300 Years in the Making’.
