@@ -28,10 +28,10 @@ To acknowledge and celebrate the significance of mature trees like the one at Lo
 <param ve-image 
        url= "https://upload.wikimedia.org/wikipedia/commons/d/d7/JLS_Bodhi_Tree-2.JPG"
        title="Jin Long Si Temple Bodhi Tree" 
-       description="Singapore's 120 year-old F. Religiosa, housed in the ex-premises of Jin Long Si Temple">
+       description="Singapore's 120 year-old F. Religiosa, housed in the ex-premises of Jin Long Si Temple"
+       attribution="Marianne North"
+       license="CC BY-NC">
        
-
-
 Aside from integrating to the religious and cultural landscape of the small nation, the adaptable and generalist plant has also naturalised into Singapore's vegetation, becoming an important feature of local ecosystems. Its fruits sustain the diet of a variety of birds and mammals such as the pied oriental hornbill, Asian koel and the variable squirrel.[^41] When germinating, F. religiosa can develop as an epiphyte, clinging onto the surfaces of other trees, walls or crevices. Host trees harbouring F. religiosa eventually get enveloped and strangled by the epiphyte’s aerial roots. F. religiosa also has an ecological quirk. Like most fig species, it is entirely dependent on a specific species of fig wasp for pollination. For F. religiosa, this is Platyscapa quadraticeps, which is specialised to crawl into the fruits of the tree which, in turn, have receptacles that are uniquely and ideally shaped for the female wasps to lay their eggs.[^42] This mutualism is so specific that neither species can survive without the other, even in the presence of other wasp or fig species.
 
 Ficus religiosa, the Ashvattha or bodhi tree, stands as a remarkable symbol of religious and cultural significance. Its roots stretch into the ancient history of Hinduism and Buddhism, where it is revered as a vessel of divine power and enlightenment. The tree's association with medicinal properties has also made it an integral part of traditional healing practices. Today, Ficus religiosa continues to inspire awe and devotion, with its propagation and conservation efforts reflecting the deep-rooted connections between humanity, spirituality, and the natural world.
