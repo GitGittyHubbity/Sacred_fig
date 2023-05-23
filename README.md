@@ -115,6 +115,35 @@ Others are selectable using icons displayed in the top right margin of the parag
 <param ve-map center="Q334" zoom="11" prefer-geojson>
 
 # References
+Australian Government. ‘Sacred Bodhi Tree’s Journey to Oz 2300 Years in the Making’. Media release, 25 August 2021. https://www.agriculture.gov.au/about/news/media-releases/sacred-bodhi-tree-journey-to-oz#daff-page-main.
+Bhalerao, Satish & Sharma, Amit. (2014). Ethenomedicinal, phytochemical and pharmacological profile of Ficus religiosa Roxb. Int.J.Curr.Microbiol.App.Sci. 3. 528-538. 
+Black, B. ‘Buddhism in the Shadow of Brahmanism. By Johannes Bronkhorst.’ The Journal of Hindu Studies 5, no. 2 (1 August 2012): 232–33. https://doi.org/10.1093/jhs/his023.
+Chandrasekar, Sb, M Bhanumathy, At Pawar, and T Somasundaram. ‘Phytopharmacology of Ficus Religiosa’. Pharmacognosy Reviews 4, no. 8 (2010): 195. https://doi.org/10.4103/0973-7847.70918.
+Chek, Yang. ‘Visiting Bartley Residences – Musings’, 9 November 2015. https://www.chekyang.com/musings/2015/11/09/visiting-bartley-residences/.
+Chiang Chan, Eric Wei, Joseph Tangah, Tomomi Inoue, Mami Kainuma, Karin Baba, Nozomi Oshiro, Mio Kezuka, and Norimi Kimura. ‘Botany, Uses, Chemistry and Pharmacology of Ficus Microcarpa: A Short Review’. Systematic Reviews in Pharmacy 8, no. 1 (15 April 2017): 103–11. https://doi.org/10.5530/srp.2017.1.18.
+Dōgen. Shōbōgenzō: The True Dharma-Eye Treasury Volume 1. Translated by Gudō Nishijima and Chodo Cross. Vol. Volume 82. BDK English Tripiṭaka Series 2582. Berkeley, California: Numata Center for Buddhist Translation and Research, 2007.
+Haberman, David L. People Trees: Worship of Trees in Northern India. Oxford ; New York: Oxford University Press, 2013.
+Jaiswal, Yogini S., and Leonard L. Williams. ‘A Glimpse of Ayurveda – The Forgotten History and Principles of Indian Traditional Medicine’. Journal of Traditional and Complementary Medicine 7, no. 1 (January 2017): 50–53. https://doi.org/10.1016/j.jtcme.2016.02.002.
+Kew Science. ‘Plants of the World Online’. Plants of the World Online. Royal Botanic Gardens. Accessed 6 May 2023. https://powo.science.kew.org/.
+Leong, Wee Keat. ‘Court Rejects Devotees’ Case’. TODAY, 26 February 2008.
+Loo, J. ‘Heritage Tree Scheme’. Infopedia. Accessed 6 May 2023. https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-09-28_143310.html.
+Machado, Carlos A., Emmanuelle Jousselin, Finn Kjellberg, Stephen G. Compton, and Edward Allen Herre. ‘Phylogenetic Relationships, Historical Biogeography and Character Evolution of Fig-Pollinating Wasps’. Proceedings of the Royal Society of London. Series B: Biological Sciences 268, no. 1468 (7 April 2001): 685–94. https://doi.org/10.1098/rspb.2000.1418.
+Matteini, Michele. ‘Written on a Bodhi Tree Leaf’. Res: Anthropology and Aesthetics 75–76 (1 March 2021): 45–58. https://doi.org/10.1086/715926.
+Merriam-Webster.com Dictionary, s.v. “pipal,” accessed May 6, 2023, https://www.merriam-webster.com/dictionary/pipal.
+National Geographic. ‘Buddhism’. Accessed 3 May 2023. https://education.nationalgeographic.org/resource/buddhism.
+National Parks Board. ‘Heritage Trees’. Accessed 6 May 2023. https://www.nparks.gov.sg/gardens-parks-and-nature/heritage-trees.
+Noort, S. van, and JY. Rasplus. ‘Platyscapa_quadraticeps’. FigWeb. Accessed 6 May 2023. http://www.figweb.org/fig_wasps/agaonidae/Agaoninae/Platyscapa/Platyscapa_quadraticeps.htm.
+Ong, Chin Kai, ‘100-Year-Old Tree May Save Temple’. The Straits Times. 21 April 2006. 
+Patton, Laurie L., ed. The Bhagavad Gita. 1. publ. London: Penguin, 2008.
+Patwardhan, Bhushan, Dnyaneshwar Warude, P. Pushpangadan, and Narendra Bhatt. ‘Ayurveda and Traditional Chinese Medicine: A Comparative Overview’. Evidence-Based Complementary and Alternative Medicine 2, no. 4 (2005): 465–73. https://doi.org/10.1093/ecam/neh140.
+Sandeep, & Kumar, Ashwani & Sepla, Dimple & Tomer, Vidisha & Gat, Yogesh & Kumar, Vikas. (2018). Ficus religiosa: A wholesome medicinal tree. 7. 
+Singh, Arvind Kumar. ‘Bodhi Tree’. In Buddhism and Jainism, edited by K. T. S. Sarao and Jeffery D. Long, 249–52. Encyclopedia of Indian Religions. Dordrecht: Springer Netherlands, 2017. https://doi.org/10.1007/978-94-024-0852-2_75.
+Singh, Damanpreet, Bikram Singh, and Rajesh Kumar Goel. ‘Traditional Uses, Phytochemistry and Pharmacology of Ficus Religiosa: A Review’. Journal of Ethnopharmacology 134, no. 3 (April 2011): 565–83. https://doi.org/10.1016/j.jep.2011.01.046.
+Sitaramam, V., S. R. Jog, and P. Tetali. ‘Ecology of Ficus Religiosa Accounts for Its Association with Religion’. Current Science 97, no. 5 (2009): 637–40. https://www.jstor.org/stable/24112157.
+Statista. ‘Singapore: Religion Breakdown Population’. Accessed 6 May 2023. https://www.statista.com/statistics/1113870/singapore-share-of-population-by-religion/.
+The Biodiversity of Singapore. ‘Ficus Religiosa’. The Biodiversity of Singapore. Lee Kong Chian Natural History Museum. Accessed 6 May 2023. https://singapore.biodiversity.online/species/P-Angi-003675.
+Unidentified. Luohans. 17th–18th century. Album of eighteen leaves; ink and color on bodhi tree leaves, 12 1/2 x 7 1/2 in. (31.8 x 19.1 cm). The Metropolitan Musuem of Art. https://www.metmuseum.org/art/collection/search/38822.
+WildSingapore. ‘100-Year-Old Tree May Save Temple’. News. WildSingapore. Accessed 19 May 2023. http://www.wildsingapore.com/news/20060304/060421-1.htm#:~:text=The%20sacred%20Bodhi%20tree%20located,at%20Pearl’s%20Hill%20City%20Park.
 
 [^1]: Chiang Chan et al., ‘Botany, Uses, Chemistry and Pharmacology of Ficus Microcarpa’.
 [^2]: Sitaramam, Jog, and Tetali, ‘Ecology of Ficus Religiosa Accounts for Its Association with Religion’.
