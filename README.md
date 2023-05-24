@@ -33,6 +33,16 @@ Around the fifth century BC, Siddartha Guatama founded Buddhism in modern day In
 In 288 BC, King Ashoka, who ruled over Bodh Gaya (where Buddha’s Tree of Enlightenment originally stood), delivered a branch of the Tree as a peace offering to Sri Lanka, where Buddhism had newly established.[^22] This branch was planted in Anuradhapura, where it eventually grew in the Jaya Maha Bodhi, likely the most sacred individual tree in Buddhism today. This title would have been afforded to the original Tree of Enlightenment in Bodh Gaya were it not for the tragedy that occurred in 245 BC. Ashoka’s queen, Tissarakkha, grew jealous of her husband’s devotion to the Tree of Enlightenment and reportedly destroyed the tree using a poisonous thorn.[^23] Distraught, Ashoka transplanted a cutting from the Jaya Maha Bodhi onto the spot where the Tree of Enlightenment once stood, in essence reviving the tree.[^24] Aside from Bodh Gaya, many temples around the world also have F. religiosa shoots believed to be the direct offspring of the sacred tree in Anuradhapura.[^25] 
 
 Practitioners of Buddhism would propagate F. religiosa in places of worship or simply cultivate it for its connection to the Buddha. Thus, as Buddhism spread throughout the rest of Asia, so did the venerated plant.[^26] Among buddhists in China, the sacredness of F. religiosa inspired the use of its leaves in religious art and scripture.[^27] The dried heart-shaped leaves of the plant would act as canvases for pigment or ink to be applied for the painting of religious depictions or the writing of sutras .[^28] Most often, the paintings include illustrations of great Buddhist sages, or arhats, while writings frequently transcribe the Heart Sutra, a seminal piece of Mahāyāna wisdom.[^29] This practice extends to the modern day, and such keepsakes can be purchased at various Buddhist temples and shrines around the world.[^30]
+<param ve-image 
+       url= "https://collectionapi.metmuseum.org/api/collection/v1/iiif/38822/152747/main-image"
+       title="Luohans" 
+       description="Painters in China used bodhi leaves to create images like this"
+       attribution="Unidentified - Held by the Met Musuem">
+<param ve-image 
+       url= "https://www.bl.uk/britishlibrary/~/media/bl/global/dst%20discovering%20sacred%20texts/collection%20items/sutras-with-illustrations-on-fig-leaves-add_ms_11746_f001r.jpg?w=608&h=342&hash=2AB1A0798D4AD873193DE7D8C6C7E9F5"
+       title="Jin Long Si Temple Bodhi Tree" 
+       description="Illustrated manuscripts of the Mahāyāna featuring bodhi leaves used as painting canvas"
+       attribution="Unidentified - Held by the British Library">
 
 The religious importance of the bodhi tree to Buddhism still facilitates its propagation and spread around the world in the modern day. In August 2021, Australia imported an offspring of the Anuradhapura tree with the goal of planting it in a Buddhist temple.[^31] Despite the nation’s arduous extensive biosecurity measures, requiring the sapling to undergo a year-long quarantine and thorough examination for potential flora pathogens, the religious and cultural importance of the tree saw adequate impetus for its transplantation.[^32]
 
