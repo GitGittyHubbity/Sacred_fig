@@ -6,6 +6,11 @@
        layout="vertical">
        
 Of the over 800 species in the genera *Ficus*[^1] , *Ficus religiosa* is likely among the most famous. *F. religiosa*, commonly known as the sacred fig or the bodhi tree, is a fig native to the Indian subcontinent, east Himalaya, Myanmar, and Malayan region.  The epithet, religiosa, alludes to its significance to Hinduism and Buddhism, two major religions also originating from the Indian subcontinent.[^2] Though the name *Ficus religiosa* was first designated by Carl Linnaeus in 1753, the species was later given eight other scientific names by subsequent taxonomists. These include *Ficus peepul* and *Urostigma affine*.[^3]  Paralleling its nomenclative popularity in the scientific world, *F. religiosa* also bears over 150 known vernacular names.[^4][^5] Table 1. illustrates some of the names in the various languages spoken in India alone. Common names today include the bodhi tree, peepal tree and the *Ashvattha* tree.[^6] This richness in vernacular names reflects the species’ cultural importance and rich history.
+<param ve-image 
+       url= "https://singapore.biodiversity.online/species/P-Angi-003675?imageId=0"
+       title="Ficus Religiosa" 
+       description="Fruits and leaves of adult and juvenile F. Religiosa"
+       attribution="Image courtesy of Kwan Han's Plant Observatory">
 
 ## The Hindu King of Trees:
 The sacred fig’s religious significance spans thousands of years, likely beginning as early as the conception of Hinduism in the 15th to 20th century BC. Its association with Hindu deities can be traced back to ancient scriptures, where it is referred to as *Ashvatta*, or King of Trees.[^7] Lord Krishna not only compared himself to the *Ashvattha* in the *Bhagavad Gita*, but was also said to assume the physical form of the tree.[^8] [^9] Consequently, the tree was highly revered as a vessel of divine power and sacredness. Harming the peepal tree was said to bring ill-fortune, while worshipping the tree brought one closer to spiritual liberation.[^10]
@@ -23,40 +28,39 @@ The religious importance of the bodhi tree to Buddhism still facilitates its pro
 
 ## A Singaporean Natural and Cultural Heritage:
 Followers of Buddhism and Hinduism collectively comprise over 35% of the population in Singapore and F. religiosa features prominently alongside the various temples or roadside shrines of its associated faiths.[^33] The oldest bodhi tree in Singapore is probably the located on Lorong How Sun. Towering at 30 meters tall, the over 100-year-old tree was housed in the ex-premises of the Jin Long Si Temple.[^34] [^35] The temple premises was acquired by the government in 2003 for urban redevelopment, sparking appeals to save the temple, and the historically and religiously significant tree.[^36] Though the appeals ultimately failed to preserve the temple, the bodhi tree was saved and authorities made commitments to protect the tree.[^37] Now, the tree holds vigil over its new surroundings, with the wooden-walled, zinc-roofed temple of the past replaced by high-rise condominiums.[^38]
-
-To acknowledge and celebrate the significance of mature trees like the one at Lorong How Sun, government authority Nparks launched the Heritage Tree Scheme in 2001.[^39] The initiative designates trees that have particular historical, social, cultural or aesthetic value as Heritage Trees, affording them, and certain aspects of their immediate environment, conservation protection. Of the 262 registered Heritage Trees, five of them are F. religiosa. As part of the citizen appeals to save Jin Long Si Temple and its resident bodhi tree, supporters nominated the tree for Heritage Tree status, hoping that the conservation status attached to the title would safeguard both the temple and the tree against urban redevelopment. Though the nomination evidently failed, the attention brought to the tree was pivotal to its continued survival into the modern day.[^40]
 <param ve-image 
        url= "https://upload.wikimedia.org/wikipedia/commons/d/d7/JLS_Bodhi_Tree-2.JPG"
        title="Jin Long Si Temple Bodhi Tree" 
        description="Singapore's 120 year-old F. Religiosa, housed in the ex-premises of Jin Long Si Temple"
        attribution="Marianne North"
        license="CC BY-NC">
-## Map
+
+To acknowledge and celebrate the significance of mature trees like the one at Lorong How Sun, government authority Nparks launched the Heritage Tree Scheme in 2001.[^39] The initiative designates trees that have particular historical, social, cultural or aesthetic value as Heritage Trees, affording them, and certain aspects of their immediate environment, conservation protection. Of the 262 registered Heritage Trees, five of them are F. religiosa. As part of the citizen appeals to save Jin Long Si Temple and its resident bodhi tree, supporters nominated the tree for Heritage Tree status, hoping that the conservation status attached to the title would safeguard both the temple and the tree against urban redevelopment. Though the nomination evidently failed, the attention brought to the tree was pivotal to its continued survival into the modern day.[^40]
 <param ve-map center="1.35, 103.9" zoom="11">
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/e/e4/Ficus_religiosa_-_Fruits.jpg"
        coords="1.278168, 103.841431"
-       size="30, 60"
+       size="20, 40"
        circle="true">
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/e/e4/Ficus_religiosa_-_Fruits.jpg"
        coords="1.284619, 103.839279"
-       size="30, 60"
+       size="20, 40"
        circle="true">     
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/e/e4/Ficus_religiosa_-_Fruits.jpg"
        coords="1.324223, 103.860868"
-       size="30, 60"
+       size="20, 40"
        circle="true"> 
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/e/e4/Ficus_religiosa_-_Fruits.jpg"
        coords="1.281750,103.796694"
-       size="30, 60"
+       size="20, 40"
        circle="true"> 
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/e/e4/Ficus_religiosa_-_Fruits.jpg"
        coords="1.223480,103.861130"
-       size="30, 60"
+       size="20, 40"
        circle="true">
 
 Aside from integrating to the religious and cultural landscape of the small nation, the adaptable and generalist plant has also naturalised into Singapore's vegetation, becoming an important feature of local ecosystems. Its fruits sustain the diet of a variety of birds and mammals such as the pied oriental hornbill, Asian koel and the variable squirrel.[^41] When germinating, F. religiosa can develop as an epiphyte, clinging onto the surfaces of other trees, walls or crevices. Host trees harbouring F. religiosa eventually get enveloped and strangled by the epiphyte’s aerial roots. F. religiosa also has an ecological quirk. Like most fig species, it is entirely dependent on a specific species of fig wasp for pollination. For F. religiosa, this is Platyscapa quadraticeps, which is specialised to crawl into the fruits of the tree which, in turn, have receptacles that are uniquely and ideally shaped for the female wasps to lay their eggs.[^42] This mutualism is so specific that neither species can survive without the other, even in the presence of other wasp or fig species.
