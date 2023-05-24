@@ -32,32 +32,31 @@ To acknowledge and celebrate the significance of mature trees like the one at Lo
        attribution="Marianne North"
        license="CC BY-NC">
 ## Map
-Mangosteens are found in Singapore. This takes a base map and sets the center to Singapore. The code after creates markers for different species, for instance, or to mark particular places on a map.
 <param ve-map center="1.35, 103.9" zoom="11">
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/e/e4/Ficus_religiosa_-_Fruits.jpg"
        coords="1.278168, 103.841431"
-       size="38, 95"
+       size="30, 70"
        iconAnchor="22, 94">
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/e/e4/Ficus_religiosa_-_Fruits.jpg"
        coords="1.284619, 103.839279"
-       size="38, 95"
+       size="30, 70"
        iconAnchor="22, 94">     
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/e/e4/Ficus_religiosa_-_Fruits.jpg"
        coords="1.324223, 103.860868"
-       size="38, 95"
+       size="30, 70"
        iconAnchor="22, 94"> 
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/e/e4/Ficus_religiosa_-_Fruits.jpg"
        coords="1.281750,103.796694"
-       size="38, 95"
+       size="30, 70"
        iconAnchor="22, 94"> 
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/e/e4/Ficus_religiosa_-_Fruits.jpg"
        coords="1.223480,103.861130"
-       size="38, 95"
+       size="30, 70"
        iconAnchor="22, 94">
 
 Aside from integrating to the religious and cultural landscape of the small nation, the adaptable and generalist plant has also naturalised into Singapore's vegetation, becoming an important feature of local ecosystems. Its fruits sustain the diet of a variety of birds and mammals such as the pied oriental hornbill, Asian koel and the variable squirrel.[^41] When germinating, F. religiosa can develop as an epiphyte, clinging onto the surfaces of other trees, walls or crevices. Host trees harbouring F. religiosa eventually get enveloped and strangled by the epiphyte’s aerial roots. F. religiosa also has an ecological quirk. Like most fig species, it is entirely dependent on a specific species of fig wasp for pollination. For F. religiosa, this is Platyscapa quadraticeps, which is specialised to crawl into the fruits of the tree which, in turn, have receptacles that are uniquely and ideally shaped for the female wasps to lay their eggs.[^42] This mutualism is so specific that neither species can survive without the other, even in the presence of other wasp or fig species.
