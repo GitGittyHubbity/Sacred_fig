@@ -27,7 +27,8 @@ The sacred fig’s religious significance spans thousands of years, likely begin
        url="media/B_gita.png"
        title="The Baghavad Gita"
        description="Krishna, in the Bhagavad Gita, an ancient Hindu text, compares himself to the sacred fig."
-       attribution="Patton, The Bhagavad Gita, 183">
+       attribution="Patton, The Bhagavad Gita, 183"
+       fit=contain>
 
 The tree’s religious significance is also closely tied to its medicinal properties, which are often referenced in holy texts.[^11] The use of medicinal plants such as the peepal tree have been central to Indian medicine, or Ayurveda, for centuries.[^12] Being deeply tied to Hinduism, Ayurveda eventually spread, along with the religion, throughout Southeast Asia, including Singapore, and is still widely practised today.[^13] [^14] According to the discipline, every part of the peepal tree has medicinal value.[^15] Its leaves, bark, and fruits are used to treat various ailments from asthma to arthritis.[^16] Modern pharmacological research has confirmed the curative properties of various compounds present within different parts of the tree.[^17] [^18] Particularly in rural areas where modern medical aid is not readily available, F. religiosa remains an important curative to support the health of locals.[^19]
 
@@ -37,12 +38,14 @@ Around the fifth century BC, Siddartha Guatama founded Buddhism in modern day In
        url="https://upload.wikimedia.org/wikipedia/commons/0/02/Four_Scenes_from_the_Life_of_the_Buddha_-_Enlightenment_-_Kushan_dynasty%2C_late_2nd_to_early_3rd_century_AD%2C_Gandhara%2C_schist_-_Freer_Gallery_of_Art_-_DSC05124.JPG"
        title="Four Scenes from the Life of the Buddha - Enlightenment - Kushan dynasty, late 2nd to early 3rd century AD, Gandhara, schist"
        description="A stone carving from the 2nd to 3rd century AD, featuring Buddha's enlightenment. The heart-shaped leaves of the bodhi tree can be prominently seen shading the Buddha."
-       attribution="Daderot, own work">
+       attribution="Daderot, own work"
+       fit=contain>
 <param ve-image 
        url="media/buddha.png"
        title="Buddhist sutra, Shōbōgenzō"
        description="A Buddhist sutra (translated from Japanese) describing a buddha’s awakening under a bodhi tree"
-       attribution="Dōgen, Shōbōgenzō, Volume 82: 401">
+       attribution="Dōgen, Shōbōgenzō, Volume 82: 401"
+       fit=contain>
 
 In 288 BC, King Ashoka, who ruled over Bodh Gaya (where Buddha’s Tree of Enlightenment originally stood), delivered a branch of the Tree as a peace offering to Sri Lanka, where Buddhism had newly established.[^22] This branch was planted in Anuradhapura, where it eventually grew in the Jaya Maha Bodhi, likely the most sacred individual tree in Buddhism today. This title would have been afforded to the original Tree of Enlightenment in Bodh Gaya were it not for the tragedy that occurred in 245 BC. Ashoka’s queen, Tissarakkha, grew jealous of her husband’s devotion to the Tree of Enlightenment and reportedly destroyed the tree using a poisonous thorn.[^23] Distraught, Ashoka transplanted a cutting from the Jaya Maha Bodhi onto the spot where the Tree of Enlightenment once stood, in essence reviving the tree.[^24] Aside from Bodh Gaya, many temples around the world also have F. religiosa shoots believed to be the direct offspring of the sacred tree in Anuradhapura.[^25] 
 
@@ -51,12 +54,14 @@ Practitioners of Buddhism would propagate F. religiosa in places of worship or s
        url= "https://collectionapi.metmuseum.org/api/collection/v1/iiif/38822/152747/main-image"
        title="Luohans" 
        description="Painters in China used applied thick mineral paints on bodhi leaves to created images like this. The illustration features arhats (Buddhist saints) exercising their spiritual powers."
-       attribution="Unidentified - Held by the Met Musuem">
+       attribution="Unidentified - Held by the Met Musuem"
+       fit=contain>
 <param ve-image 
        url= "https://www.bl.uk/britishlibrary/~/media/bl/global/dst%20discovering%20sacred%20texts/collection%20items/sutras-with-illustrations-on-fig-leaves-add_ms_11746_f003r.jpg"
        title="Jin Long Si Temple Bodhi Tree" 
        description="Illustrated manuscripts of the Mahāyāna featuring bodhi leaves used as painting canvas"
-       attribution="Unidentified - Held by the British Library">
+       attribution="Unidentified - Held by the British Library"
+       fit=contain>
 
 The religious importance of the bodhi tree to Buddhism still facilitates its propagation and spread around the world in the modern day. In August 2021, Australia imported an offspring of the Anuradhapura tree with the goal of planting it in a Buddhist temple.[^31] This was no simple feat. The nation possess arduous and extensive biosecurity measures, requiring the sapling to undergo a year-long quarantine and thorough examination for potential flora pathogens. Despite the hurdles, the religious and cultural importance of the tree saw adequate impetus for its transplantation.[^32]
 
@@ -67,7 +72,8 @@ Followers of Buddhism and Hinduism collectively comprise over 35% of the populat
        title="Jin Long Si Temple Bodhi Tree" 
        description="Singapore's 120 year-old F. Religiosa, housed in the ex-premises of Jin Long Si Temple"
        attribution="Aldwin Teo"
-       license="CC BY-NC">
+       license="CC BY-NC"
+       fit=contain>
 
 To acknowledge and celebrate the significance of mature trees like the one at Lorong How Sun, government authority Nparks launched the Heritage Tree Scheme in 2001.[^39] The initiative designates trees that have particular historical, social, cultural or aesthetic value as Heritage Trees, affording them, and certain aspects of their immediate environment, conservation protection. Of the 262 registered Heritage Trees, five of them are F. religiosa. As part of the citizen appeals to save Jin Long Si Temple and its resident bodhi tree, supporters nominated the tree for Heritage Tree status, hoping that the conservation status attached to the title would safeguard both the temple and the tree against urban redevelopment. Though the nomination evidently failed, the attention brought to the tree was pivotal to its continued survival into the modern day.[^40]
 <param ve-map center="1.35, 103.9" zoom="11">
