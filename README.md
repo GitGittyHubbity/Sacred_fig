@@ -7,14 +7,14 @@
        
 Of the over 800 species in the genera *Ficus*[^1] , *Ficus religiosa* is likely among the most famous. *F. religiosa*, commonly known as the sacred fig or the bodhi tree, is a fig native to the Indian subcontinent, east Himalaya, Myanmar, and Malayan region.  The epithet, religiosa, alludes to its significance to Hinduism and Buddhism, two major religions also originating from the Indian subcontinent.[^2] Though the name *Ficus religiosa* was first designated by Carl Linnaeus in 1753, the species was later given eight other scientific names by subsequent taxonomists. These include *Ficus peepul* and *Urostigma affine*.[^3]  Paralleling its nomenclative popularity in the scientific world, *F. religiosa* also bears over 150 known vernacular names.[^4][^5] Table 1. illustrates some of the names in the various languages spoken in India alone. Common names today include the bodhi tree, peepal tree and the *Ashvattha* tree.[^6] This richness in vernacular names reflects the species’ cultural importance and rich history.
 <param ve-image 
-       url= "https://singapore.biodiversity.online/species/P-Angi-003675?imageId=0"
+       url= "media/f.religiosa.jpg"
        title="Ficus Religiosa" 
        description="Fruits and leaves of adult and juvenile F. Religiosa"
        attribution="Kwan Han's Plant Observatory">
 
 The many vernacular names of the sacred fig
 <param ve-image 
-       url="media/vernacular_names_fig.png"
+       url="media/vernacular_names_fig.jpg"
        title="Vernacular names of the sacred fig"
        description="Vernacular names for F. religiosa in the Indian subcontinent alone"
        attribution="Sandeep et al., ‘Ficus religiosa: A wholesome medicinal tree’"
@@ -23,10 +23,11 @@ The many vernacular names of the sacred fig
 ## The Hindu King of Trees:
 The sacred fig’s religious significance spans thousands of years, likely beginning as early as the conception of Hinduism in the 15th to 20th century BC. Its association with Hindu deities can be traced back to ancient scriptures, where it is referred to as *Ashvatta*, or King of Trees.[^7] Lord Krishna not only compared himself to the *Ashvattha* in the *Bhagavad Gita*, but was also said to assume the physical form of the tree.[^8] [^9] Consequently, the tree was highly revered as a vessel of divine power and sacredness. Harming the peepal tree was said to bring ill-fortune, while worshipping the tree brought one closer to spiritual liberation.[^10]
 <param ve-image 
-       url="media/B_gita.png"
+       url="media/B_gita.jpg"
        title="The Baghavad Gita"
        description="Krishna, in the Bhagavad Gita, an ancient Hindu text, compares himself to the sacred fig."
-       attribution="Patton, The Bhagavad Gita, 183">
+       attribution="Patton, The Bhagavad Gita, 183"
+       fit=contain>
 
 The tree’s religious significance is also closely tied to its medicinal properties, which are often referenced in holy texts.[^11] The use of medicinal plants such as the peepal tree have been central to Indian medicine, or Ayurveda, for centuries.[^12] Being deeply tied to Hinduism, Ayurveda eventually spread, along with the religion, throughout Southeast Asia, including Singapore, and is still widely practised today.[^13] [^14] According to the discipline, every part of the peepal tree has medicinal value.[^15] Its leaves, bark, and fruits are used to treat various ailments from asthma to arthritis.[^16] Modern pharmacological research has confirmed the curative properties of various compounds present within different parts of the tree.[^17] [^18] Particularly in rural areas where modern medical aid is not readily available, F. religiosa remains an important curative to support the health of locals.[^19]
 
