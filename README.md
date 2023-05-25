@@ -10,8 +10,7 @@ Of the over 800 species in the genera *Ficus*[^1] , *Ficus religiosa* is likely 
        url= "https://singapore.biodiversity.online/species/P-Angi-003675?imageId=0"
        title="Ficus Religiosa" 
        description="Fruits and leaves of adult and juvenile F. Religiosa"
-       attribution="Kwan Han's Plant Observatory"
-       fit=contain>
+       attribution="Kwan Han's Plant Observatory">
 
 The many vernacular names of the sacred fig
 <param ve-image 
@@ -27,8 +26,7 @@ The sacred fig’s religious significance spans thousands of years, likely begin
        url="media/B_gita.png"
        title="The Baghavad Gita"
        description="Krishna, in the Bhagavad Gita, an ancient Hindu text, compares himself to the sacred fig."
-       attribution="Patton, The Bhagavad Gita, 183"
-       fit=contain>
+       attribution="Patton, The Bhagavad Gita, 183">
 
 The tree’s religious significance is also closely tied to its medicinal properties, which are often referenced in holy texts.[^11] The use of medicinal plants such as the peepal tree have been central to Indian medicine, or Ayurveda, for centuries.[^12] Being deeply tied to Hinduism, Ayurveda eventually spread, along with the religion, throughout Southeast Asia, including Singapore, and is still widely practised today.[^13] [^14] According to the discipline, every part of the peepal tree has medicinal value.[^15] Its leaves, bark, and fruits are used to treat various ailments from asthma to arthritis.[^16] Modern pharmacological research has confirmed the curative properties of various compounds present within different parts of the tree.[^17] [^18] Particularly in rural areas where modern medical aid is not readily available, F. religiosa remains an important curative to support the health of locals.[^19]
 
