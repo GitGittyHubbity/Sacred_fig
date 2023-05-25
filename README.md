@@ -1,4 +1,3 @@
-# Sacred_fig
 <param ve-config 
        title="Religion’s Living Roots: The Sacred Ficus religiosa"
        author="Foo Shi Wen"
