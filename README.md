@@ -12,7 +12,7 @@ Of the over 800 species in the genera *Ficus*[^1] , *Ficus religiosa* is likely 
        attribution="Kwan Han's Plant Observatory"
        fit="contain">
 
-The many vernacular names of the sacred fig
+The many vernacular names of the sacred fig.
 <param ve-image 
        url="media/vernacular_names_fig.jpg"
        title="Vernacular names of the sacred fig"
