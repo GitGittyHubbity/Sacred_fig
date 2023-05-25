@@ -2,7 +2,7 @@
 <param ve-config 
        title="Religion’s Living Roots: The Sacred Ficus religiosa"
        author="Foo Shi Wen"
-       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ficus_religiosa_-_Fruits.jpg/640px-Ficus_religiosa_-_Fruits.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/e/e5/Bodhi_Baum_%28Ficus_religiosa%29.jpg"
        layout="vertical">
        
 Of the over 800 species in the genera *Ficus*[^1] , *Ficus religiosa* is likely among the most famous. *F. religiosa*, commonly known as the sacred fig or the bodhi tree, is a fig native to the Indian subcontinent, east Himalaya, Myanmar, and Malayan region.  The epithet, religiosa, alludes to its significance to Hinduism and Buddhism, two major religions also originating from the Indian subcontinent.[^2] Though the name *Ficus religiosa* was first designated by Carl Linnaeus in 1753, the species was later given eight other scientific names by subsequent taxonomists. These include *Ficus peepul* and *Urostigma affine*.[^3]  Paralleling its nomenclative popularity in the scientific world, *F. religiosa* also bears over 150 known vernacular names.[^4][^5] Table 1. illustrates some of the names in the various languages spoken in India alone. Common names today include the bodhi tree, peepal tree and the *Ashvattha* tree.[^6] This richness in vernacular names reflects the species’ cultural importance and rich history.
