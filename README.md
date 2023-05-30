@@ -14,7 +14,7 @@ Of the over 800 species in the genera *Ficus*[^1] , *Ficus religiosa* is likely 
 
 The many vernacular names of the sacred fig.
 <param ve-image 
-       url="media/vernacular_names_fig.jpg"
+       url="https://raw.githubusercontent.com/GitGittyHubbity/Sacred_fig/main/media/vernacular_names_fig.jpg"
        title="Vernacular names of the sacred fig"
        description="Vernacular names for F. religiosa in the Indian subcontinent alone"
        attribution="Sandeep et al., ‘Ficus religiosa: A wholesome medicinal tree’"
@@ -23,7 +23,7 @@ The many vernacular names of the sacred fig.
 ## The Hindu King of Trees:
 The sacred fig’s religious significance spans thousands of years, likely beginning as early as the conception of Hinduism in the 15th to 20th century BC. Its association with Hindu deities can be traced back to ancient scriptures, where it is referred to as *Ashvatta*, or King of Trees.[^7] Lord Krishna not only compared himself to the *Ashvattha* in the *Bhagavad Gita*, but was also said to assume the physical form of the tree.[^8] [^9] Consequently, the tree was highly revered as a vessel of divine power and sacredness. Harming the peepal tree was said to bring ill-fortune, while worshipping the tree brought one closer to spiritual liberation.[^10]
 <param ve-image 
-       url="media/B_gita.jpg"
+       url="https://raw.githubusercontent.com/GitGittyHubbity/Sacred_fig/main/media/B_gita.jpg"
        title="The Baghavad Gita"
        description="Krishna, in the Bhagavad Gita, an ancient Hindu text, compares himself to the sacred fig."
        attribution="Patton, The Bhagavad Gita, 183"
