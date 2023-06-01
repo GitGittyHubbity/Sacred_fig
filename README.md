@@ -4,15 +4,13 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/e/e5/Bodhi_Baum_%28Ficus_religiosa%29.jpg"
        layout="vertical">
        
-Of the over 800 species in the genera *Ficus*[^1] , *Ficus religiosa* is likely among the most famous. *F. religiosa*, commonly known as the sacred fig or the bodhi tree, is a fig native to the Indian subcontinent, east Himalaya, Myanmar, and Malayan region.  The epithet, religiosa, alludes to its significance to Hinduism and Buddhism, two major religions also originating from the Indian subcontinent.[^2] Though the name *Ficus religiosa* was first designated by Carl Linnaeus in 1753, the species was later given eight other scientific names by subsequent taxonomists. These include *Ficus peepul* and *Urostigma affine*.[^3]  Paralleling its nomenclative popularity in the scientific world, *F. religiosa* also bears over 150 known vernacular names.[^4][^5] Table 1. illustrates some of the names in the various languages spoken in India alone. Common names today include the bodhi tree, peepal tree and the *Ashvattha* tree.[^6] This richness in vernacular names reflects the species’ cultural importance and rich history.
+Of the over 800 species in the genera *Ficus*[^1] , *Ficus religiosa* is likely among the most famous. *F. religiosa*, commonly known as the sacred fig or the bodhi tree, is a fig native to the Indian subcontinent, east Himalaya, Myanmar, and Malayan region.  The epithet, religiosa, alludes to its significance to Hinduism and Buddhism, two major religions also originating from the Indian subcontinent.[^2] Though the name *Ficus religiosa* was first designated by Carl Linnaeus in 1753, the species was later given eight other scientific names by subsequent taxonomists. These include *Ficus peepul* and *Urostigma affine*.[^3]  Paralleling its nomenclative popularity in the scientific world, *F. religiosa* also bears over 150 known vernacular names.[^4][^5] Table 1. illustrates some of the names in the various languages spoken in India alone. Common names today include the bodhi tree, peepal tree and the *Ashvattha* tree.[^6] This <span data-click-image-zoomto="next">richness in vernacular names</span> reflects the species’ cultural importance and rich history.
 <param ve-image 
        title="Ficus Religiosa" 
        url="https://raw.githubusercontent.com/GitGittyHubbity/Sacred_fig/509195bba4a884506735faae3e8bfab6d7922496/media/f.religiosa.jpg"
        description="Fruits and leaves of adult and juvenile F. Religiosa"
        attribution="Kwan Han's Plant Observatory"
        fit="contain">
-
-The many vernacular names of the sacred fig.
 <param ve-image 
        url="https://raw.githubusercontent.com/GitGittyHubbity/Sacred_fig/main/media/vernacular_names_fig.jpg"
        title="Vernacular names of the sacred fig"
