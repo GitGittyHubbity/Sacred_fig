@@ -102,7 +102,7 @@ To acknowledge and celebrate the significance of mature trees like the one at Lo
 
 Aside from integrating to the religious and cultural landscape of the small nation, the adaptable and generalist plant has also naturalised into Singapore's vegetation, becoming an important feature of local ecosystems. Its fruits sustain the diet of a variety of birds and mammals such as the pied oriental hornbill, Asian koel and the variable squirrel.[^41] When germinating, *F. religiosa* can develop as an epiphyte, clinging onto the surfaces of other trees, walls or crevices. Host trees harbouring F. religiosa eventually get enveloped and strangled by the epiphyte’s aerial roots. *F. religiosa* also has an ecological quirk. Like most fig species, it is entirely dependent on a specific species of fig wasp for pollination. For *F. religiosa*, this is *Platyscapa quadraticeps*, which is specialised to crawl into the fruits of the tree which, in turn, have receptacles that are uniquely and ideally shaped for the female wasps to lay their eggs.[^42] This mutualism is so specific that neither species can survive without the other, even in the presence of other wasp or fig species.
 <param ve-image 
-       url="https://raw.githubusercontent.com/GitGittyHubbity/Sacred_fig/main/media/vernacular_names_fig.jpg"
+       url="https://raw.githubusercontent.com/GitGittyHubbity/Sacred_fig/main/media/HT 2007-156 Ficus religiosa.jpg"
        title="Vernacular names of the sacred fig"
        description="Vernacular names for F. religiosa in the Indian subcontinent alone"
        attribution="Sandeep et al., ‘Ficus religiosa: A wholesome medicinal tree’"
